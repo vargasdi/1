@@ -1,0 +1,18 @@
+#EXTM3U
+
+#EXTINF:-1  group-title="TV2",HBO LATINO 
+http://regioplay.xyz/php/SR_REGIO_130921_/tv2.php?cat=latinos&ch=hbo&k=SrRegio&f=.m3u8
+#EXTINF:-1  group-title="TV2",HBO 2 
+http://regioplay.xyz/php/SR_REGIO_130921_/tv2.php?cat=latinos&ch=hbo2&k=SrRegio&f=.m3u8
+#EXTINF:-1  group-title="TV2",HBO PLUS 
+http://regioplay.xyz/php/SR_REGIO_130921_/tv2.php?cat=latinos&ch=hboplus&k=SrRegio&f=.m3u8
+#EXTINF:-1  group-title="TV2",HBO FAMILY 
+http://regioplay.xyz/php/SR_REGIO_130921_/tv2.php?cat=latinos&ch=hbofamily&k=SrRegio&f=.m3u8
+#EXTINF:-1  group-title="TV2",HBO SIGNATURE 
+http://regioplay.xyz/php/SR_REGIO_130921_/tv2.php?cat=latinos&ch=hbosignature&k=SrRegio&f=.m3u8
+#EXTINF:-1  group-title="TV2",HBO XTREME 
+http://regioplay.xyz/php/SR_REGIO_130921_/tv2.php?cat=latinos&ch=maxprime&k=SrRegio&f=.m3u8
+#EXTINF:-1  group-title="TV2",HBO MUNDI 
+http://regioplay.xyz/php/SR_REGIO_130921_/tv2.php?cat=latinos&ch=maxlatino&k=SrRegio&f=.m3u8
+#EXTINF:-1  group-title="TV2",HBO POP 
+http://regioplay.xyz/php/SR_REGIO_130921_/tv2.php?cat=latinos&ch=maxup&k=SrRegio&f=.m3u8
