@@ -1,13 +1,12 @@
 #EXTM3U
-#EXTINF:-1,HBO plus
-http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=59|User-Agent=megaplayer
-#EXTINF:-1,HBO Subtitulado
-http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=60|User-Agent=megaplayer
-#EXTINF:-1,HBO Signature
-http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=61|User-Agent=megaplayer
-#EXTINF:-1,HBO Family
-http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=62|User-Agent=megaplayer
-#EXTINF:-1,HBO 2
-http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=63|User-Agent=megaplayer
-#EXTINF:-1,HBO
-http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=64|User-Agent=megaplayer
+#EXTINF:-1,SUR: HBO
+http://31.220.1.190:8080/WuYC3qhd9/65udrOt48Y/88001
+
+#EXTINF:-1,SUR: HBO 2
+http://31.220.1.190:8080/WuYC3qhd9/65udrOt48Y/146729
+
+#EXTINF:-1,SUR: HBO Family
+http://31.220.1.190:8080/WuYC3qhd9/65udrOt48Y/146730
+
+#EXTINF:-1,SUR: HBO Plus
+http://31.220.1.190:8080/WuYC3qhd9/65udrOt48Y/146731
