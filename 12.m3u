@@ -1,5 +1,6 @@
-Function loadConfig() as Object
-    arr = [
+#EXTM3U
+
+
 {   Title: "LAS ESTRELLAS HD"
     streamFormat: "hls|mts"
     Logo: "http://afiliados.televisa-networks.com/wp-content/uploads/2017/08/las-estrellas.png"
