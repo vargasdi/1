@@ -1,37 +1,13 @@
 #EXTM3U
 
-
-{   Title: "LAS ESTRELLAS HD"
-    streamFormat: "hls|mts"
-    Logo: "http://afiliados.televisa-networks.com/wp-content/uploads/2017/08/las-estrellas.png"
-    Stream: "https://qlobbidev.s.llnwi.net/bpk-tv/ESTRELLAS/hls/index.m3u8"
-    UserAgent: "http-user-agent="
-    Cache: "" 
-    Live: false
-}
-{   Title: "LAS ESTRELLAS HD OP2"
-    streamFormat: "hls"
-    Logo: "http://afiliados.televisa-networks.com/wp-content/uploads/2017/08/las-estrellas.png"
-    Stream: "https://blackghost.live/play/totalp1-950.php?c=1784&p=3&k=black&f=.m3u8"
-    Live: false
-}
-{   Title: "ESTRELLA TV"
-    streamFormat: "hls"
-    Logo: "http://unidosok.com/wp-content/uploads/2020/02/ESTRELLA-TV-WHITE-LETTER-TRANSPARENT.png"
-    Stream: "https://estrellatv-roku.amagi.tv/playlist.m3u8"
-    Live: false
-}
-{   Title: "ESTRELLA TV OP2"
-    streamFormat: "hls|mts"
-    Logo: "http://unidosok.com/wp-content/uploads/2020/02/ESTRELLA-TV-WHITE-LETTER-TRANSPARENT.png"
-    Stream: "http://odenfull.co:2086/142536/142536/16272"
-    UserAgent: "http-user-agent=http://l3d.us:8080/4Lxx4KOD/WHGnYwuGFs/10889"
-    Live: false
-}
-{   Title: "AZTECA UNO"
-    streamFormat: "hls"
-    Logo: "https://imagenes.gatotv.com/logos/canales/oscuros/azteca_uno-mediano.png"
-    Stream: "https://blackghost.live/play/totalp1-950.php?c=27&p=3&k=black&f=.m3u8"
+#EXTINF:-1 group-title="Principales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7d/Azteca_Uno.png","LAS ESTRELLAS HD
+https://blackghost.live/play/totalp1-950.php?c=1784&p=3&k=black&f=.m3u8
+#EXTINF:-1 group-title="Principales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7d/Azteca_Uno.png","LAS ESTRELLAS HD
+https://estrellatv-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Principales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7d/Azteca_Uno.png","LAS ESTRELLAS HD
+http://odenfull.co:2086/142536/142536/16272
+#EXTINF:-1 group-title="Principales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7d/Azteca_Uno.png","LAS ESTRELLAS HD
+https://blackghost.live/play/totalp1-950.php?c=27&p=3&k=black&f=.m3u8
     Live: false
 }
 {   Title: "AZTECA UNO OP2"
